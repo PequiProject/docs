@@ -1,0 +1,146 @@
+Crie o design de um aplicativo mobile de saúde com estética acolhedora, humana, limpa e moderna, inspirado na experiência do Flo, mas voltado para o acompanhamento de pacientes com hanseníase e, futuramente, outras doenças dermatológicas.
+
+O aplicativo deve transmitir:
+- acolhimento
+- segurança
+- clareza
+- confiança
+- cuidado contínuo
+- leveza emocional
+- linguagem visual não hospitalar e não assustadora
+
+Objetivo do app:
+Ajudar pacientes a acompanhar sintomas, registrar evolução da pele, manter rotina de tratamento, receber lembretes, visualizar sua jornada de cuidado e acessar informações educativas de forma simples e amigável.
+
+Público:
+Pessoas em acompanhamento de hanseníase, incluindo usuários com baixa familiaridade digital. O design deve ser intuitivo, acessível e muito fácil de navegar.
+
+Estilo visual desejado:
+- visual premium, delicado e acolhedor
+- interface clean, com bastante espaço em branco
+- cantos arredondados
+- cards suaves
+- aparência amigável e humana
+- ilustrações leves e inclusivas
+- sensação de bem-estar e acompanhamento pessoal
+- evitar aparência de prontuário médico rígido
+- evitar visual frio, técnico ou excessivamente clínico
+
+Paleta de cores:
+- tons suaves e calmantes
+- azul claro, verde suave, lavanda, bege claro, off-white
+- usar cores de alerta de forma discreta
+- transmitir saúde, conforto e confiança
+- contraste suficiente para acessibilidade
+
+Tipografia:
+- moderna, legível e amigável
+- boa hierarquia visual
+- textos curtos, claros e acessíveis
+
+Crie as seguintes telas:
+
+1. Tela de onboarding
+- apresentação acolhedora do app
+- explicar que ele ajuda a acompanhar a saúde da pele, sintomas e rotina de cuidado
+- destacar privacidade, acolhimento e acompanhamento contínuo
+- ilustrações suaves e inclusivas
+- botões claros de continuar
+
+2. Tela inicial / dashboard
+- saudação amigável, como “Como você está hoje?”
+- resumo do dia
+- botão principal para registrar sintomas
+- cards com lembretes de medicação
+- próximos cuidados
+- acesso rápido ao diário, fotos e linha do tempo
+- visual semelhante a apps de bem-estar
+
+3. Tela de check-in diário
+- registrar como a pessoa está se sentindo hoje
+- perguntas simples e amigáveis
+- seleção de sintomas como dormência, formigamento, dor, ressecamento, mudança em manchas, sensibilidade alterada
+- escala visual simples e intuitiva
+- interface acolhedora e nada pesada
+
+4. Tela de mapa corporal
+- ilustração limpa do corpo humano frontal e traseira
+- usuário pode tocar em regiões do corpo para marcar manchas, dormência ou alterações
+- design simples, visual, acessível e organizado
+- aparência elegante e fácil de entender
+
+5. Tela de registro de evolução por fotos
+- timeline de fotos da pele por data
+- comparação visual entre registros
+- instruções suaves para tirar foto com boa iluminação
+- layout bonito, organizado e seguro
+- sensação de acompanhamento cuidadoso
+
+6. Tela de linha do tempo da jornada
+- mostrar eventos importantes do acompanhamento
+- início dos sintomas
+- diagnóstico
+- consultas
+- início do tratamento
+- registros importantes
+- mudanças percebidas
+- design emocional, visual e organizado, inspirado em apps de acompanhamento pessoal
+
+7. Tela de lembretes
+- lembretes de medicação
+- hidratação da pele
+- auto-observação
+- consultas
+- retorno médico
+- design simples e agradável, com toggles e cards
+
+8. Tela educativa
+- conteúdo em cards curtos e visuais
+- temas como “O que é hanseníase?”, “Sinais de atenção”, “Como funciona o tratamento?”, “Cuidados diários”
+- linguagem simples
+- ícones amigáveis
+- design parecido com uma biblioteca de autocuidado
+
+9. Tela de relatório para consulta
+- resumo visual da evolução
+- sintomas mais frequentes
+- registros recentes
+- datas importantes
+- adesão aos lembretes
+- aparência clara, confiável e profissional, mas ainda acolhedora
+
+10. Tela de perfil
+- dados do paciente
+- tratamento em andamento
+- unidade de saúde
+- profissional de referência
+- configurações
+- privacidade
+- visual minimalista e elegante
+
+11. Mapeamento de fluxo completo
+- Liste todos os fluxos principais do aplicativo, incluindo:
+- onboarding
+- uso diário (check-in)
+- registro de sintomas
+- captura de fotos
+- visualização de evolução
+- lembretes
+- acesso a conteúdo educativo
+Para cada fluxo, descreva passo a passo a navegação entre telas
+
+Diretrizes extras:
+- criar componentes consistentes para botões, cards, inputs, abas e navegação inferior
+- usar ícones arredondados e amigáveis
+- incluir microinterações suaves
+- design mobile-first
+- priorizar acessibilidade e legibilidade
+- criar uma experiência que pareça um companheiro de cuidado, não um sistema médico frio
+- permitir futura expansão para outras doenças dermatológicas sem mudar a base visual do produto
+
+Entregue:
+- interface completa em alta fidelidade
+- design system básico
+- componentes reutilizáveis
+- fluxo entre telas
+- visual pronto para prototipação de um app real
